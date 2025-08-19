@@ -1,4 +1,5 @@
 #include <stdio.h>
+// calcular o dobro de um valor
 
 int main(){
     int num, dobro;
@@ -8,5 +9,6 @@ int main(){
     dobro=num*2;
 
     printf("O dobro do seu numero eh %d", dobro);
+
 
 }
