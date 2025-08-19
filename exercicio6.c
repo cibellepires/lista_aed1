@@ -1,4 +1,5 @@
 #include <stdio.h>
+// verificar se um numero é par ou impar
 int main(){
     int i;
 
@@ -12,4 +13,5 @@ int main(){
         printf("o numero %d eh impar", i);}
 
     return 0;
+
 }
