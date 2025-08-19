@@ -1,4 +1,5 @@
 #include <stdio.h>
+// soma e media de numeros inteiros
  int main(){
     int a, b, c, soma, media;
     printf("Digite 1 numero inteiro: ");
@@ -19,6 +20,7 @@
     printf("A media eh: %d", media);
 
     return 0;
+
 
 
  }
